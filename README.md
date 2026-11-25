@@ -8,3 +8,6 @@
 学了：SELECT 选列，WHERE 挑条件，改引号里的名字
 坑：英文说明看不懂，先跳过
 明天：第3-4题
+第1周 Day2：
+任务：SQLZoo SELECT basics 第3-4题
+完成：✅
